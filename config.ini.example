@@ -1,0 +1,6 @@
+[api]
+api_key=your_api_key_here
+base_url=https://api.openai.com/v1  # 或其他API服务商如 https://api.anthropic.com 或 https://api.deepseek.com/v1
+
+[model]
+model=gpt-4o  # 或者 claude-3-sonnet-20240229, deepseek-chat 等
