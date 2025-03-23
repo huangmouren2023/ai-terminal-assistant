@@ -1,0 +1,23 @@
+# 忽略配置文件（可能包含API密钥）
+config.ini
+.env
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
